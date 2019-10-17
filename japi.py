@@ -40,6 +40,8 @@ def main():
 		f.write("------------------------------------------------------------------------\n")
 		f.write("The current price of " + stockDict['Stock Quotes']['1. symbol'] + " is: $" + stockDict['Stock Quotes']['2. price'] +"\n")
 		f.write("------------------------------------------------------------------------\n\n")
+	print "Stock Quotes retrieved successfully!"
+	f.write("Stock Quotes retrieved successfully!")
 	f.close()
 
 if __name__== "__main__":

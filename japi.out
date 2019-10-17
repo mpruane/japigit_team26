@@ -33,8 +33,8 @@ JSON Formatted Response:                                               |
         {
             "1. symbol": "VHI",
             "2. price": "1.9400",
-            "3. volume": "22156",
-            "4. timestamp": "2019-10-17 13:48:34"
+            "3. volume": "22581",
+            "4. timestamp": "2019-10-17 13:59:06"
         }
     ]
 }
@@ -99,8 +99,8 @@ JSON Formatted Response:                                               |
         {
             "1. symbol": "DCI",
             "2. price": "52.0400",
-            "3. volume": "114588",
-            "4. timestamp": "2019-10-17 13:20:18"
+            "3. volume": "119464",
+            "4. timestamp": "2019-10-17 13:54:20"
         }
     ]
 }
@@ -108,3 +108,4 @@ JSON Formatted Response:                                               |
 The current price of DCI is: $52.0400
 ------------------------------------------------------------------------
 
+Stock Quotes retrieved successfully!
